@@ -1,6 +1,6 @@
 'use strict';
 
-let start = document.getElementById('start'),
+const start = document.getElementById('start'),
     cancel = document.getElementById('cancel'),
     btnIncomePlus = document.getElementsByTagName('button')[0],
     btnExpensesPlus = document.getElementsByTagName('button')[1],
